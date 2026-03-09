@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NF_Void Terminal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="terminal" onclick="focusInput()">
+        <div id="output"></div>
+        <div class="input-area">
+            <span class="prompt" id="prompt-span">
+                <span class="prompt-user" id="prompt-user">user</span><span class="prompt-sep">@</span>
+                <span class="prompt-user" id="prompt-host">desktop</span><span class="prompt-sep">:</span>
+                <span class="prompt-path" id="path-display">~</span><span class="prompt-sep">$</span>
+            </span>
+            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" autofocus>
+        </div>
+    </div>
+    <script src="renderer.js"></script>
+</body>
+</html>
