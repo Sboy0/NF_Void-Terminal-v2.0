@@ -145,13 +145,10 @@ dns google.com
 
 ## 🎨 Скриншоты
 
-<div align="center">
-![](screens/NF_Void terminal v2.0 screen_1.png)
-
-![](screens/NF_Void terminal v2.0 screen_2.png)
-
-</div>
-
+<p align="center">
+  <img src="Screens/NF_Void%20terminal%20v2.0%20screen_1.png" width="400" />
+  <img src="Screens/NF_Void%20terminal%20v2.0%20screen_2.png" width="400" /> 
+</p>
 ---
 
 ## 🔒 Безопасность
@@ -236,31 +233,13 @@ nf-void-terminal/
 
 ## 👤 Автор
 
-**Nikol**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: @sboy0
 
 ---
 
-## 🙏 Благодарности
-
-- [Electron.js](https://www.electronjs.org/) — фреймворк для десктопных приложений
-- [Node.js](https://nodejs.org/) — среда выполнения JavaScript
-- Всем контрибьюторам проекта
-
----
-
-## 📞 Контакты
-
-Если у вас есть вопросы или предложения, создайте **Issue** в репозитории или напишите на почту.
-
----
 
 <div align="center">
 
 **⭐ Если вам понравился проект, поставьте звезду на GitHub! ⭐**
-
-[Сообщить о проблеме](https://github.com/yourusername/nf-void-terminal/issues) • [Запросить функцию](https://github.com/yourusername/nf-void-terminal/issues) • [Обсудить](https://github.com/yourusername/nf-void-terminal/discussions)
 
 </div>
